@@ -1,0 +1,14 @@
+tasks:
+  - name: Prospecting
+    steps:
+      - GeoSniper
+      - PermitForge
+
+  - name: Funding
+    steps:
+      - BidBot Nova
+      - SponsorScope
+
+  - name: Communication
+    steps:
+      - HypeCrafter
