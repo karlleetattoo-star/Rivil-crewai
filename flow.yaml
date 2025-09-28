@@ -1,0 +1,20 @@
+flow:
+  name: Rivil Prospecting & Funding Flow
+  description: >
+    Example workflow showing how the RIVIL CrewAI team automates 
+    mineral prospecting, funding applications, and sponsor outreach.
+
+  steps:
+    - task: Prospecting
+      agents:
+        - GeoSniper
+        - PermitForge
+
+    - task: Funding
+      agents:
+        - BidBot Nova
+        - SponsorScope
+
+    - task: Communication
+      agents:
+        - HypeCrafter
