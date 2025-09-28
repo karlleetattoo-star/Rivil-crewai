@@ -1,0 +1,22 @@
+# RIVIL CrewAI
+
+A specialized AI agent team for **prospecting, funding, and partnerships**.  
+Automates the entire chain – from SGU geodata to investor pitches.  
+
+## Agents
+- **GeoSniper** → Identifies exploration zones using SGU data  
+- **PermitForge** → Builds complete applications to Bergsstaten  
+- **BidBot Nova** → Finds and drafts EU & state funding applications  
+- **SponsorScope** → Maps potential sponsors and partners  
+- **HypeCrafter** → Creates narratives, pitches, and campaigns  
+
+## Workflows
+- **Prospecting** → GeoSniper + PermitForge  
+- **Funding** → BidBot Nova + SponsorScope  
+- **Communication** → HypeCrafter  
+
+---
+
+### 🌍 About Rivil Future AB
+Rivil Future AB operates at the intersection of **mineral exploration, cultural heritage, and Web3 innovation**.  
+The RIVIL CrewAI team is designed to accelerate projects, secure funding, and communicate visions globally.  
